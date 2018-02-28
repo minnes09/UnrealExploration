@@ -259,3 +259,18 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+#Unreal Engine 
+/Binaries
+
+/DerivedDataCache
+
+/Intermediate
+
+/Saved
+
+*.sln
+
+*.sdf
+
+*.suo

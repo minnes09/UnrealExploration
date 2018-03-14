@@ -1,3 +1,0 @@
-D:\Projects\Unreal Projects\BatteryCollector\Source\BatteryCollector\BatteryCollector.Build.cs
-D:\Projects\Unreal Projects\BatteryCollector\Source\BatteryCollector.Target.cs
-D:\Projects\Unreal Projects\BatteryCollector\Source\BatteryCollectorEditor.Target.cs
